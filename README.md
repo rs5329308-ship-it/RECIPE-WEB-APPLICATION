@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍳 FlavorFind — Recipe Finder App
 
 A full-stack web application to discover recipes by ingredients, with user authentication and bookmarking.
@@ -189,3 +190,7 @@ Change `server.port=8081` in `application.properties` and update `"proxy"` in `f
 
 **CORS issues:**
 Ensure `app.cors.allowed-origins=http://localhost:3000` matches your frontend URL.
+=======
+# RECIPE-WEB-APPLICATION
+It is a web application which can be used to explore/search recipes by adding the ingridients or even by the names of the recipes 
+>>>>>>> bf5e5c6cf220f6668ec9713116873e94e498648e
